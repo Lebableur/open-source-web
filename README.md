@@ -8,8 +8,7 @@
 
 # Ps : ses assez facile à prendre en mains
 
-# si intéressé n'hésitez pas à installer et à utilisez selon vos
-# besoin
+# si intéressé n'hésitez pas à installer et à utilisez selon vos besoin 
 
 
 
